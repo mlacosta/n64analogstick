@@ -1,5 +1,4 @@
 # N64 Arduino Controller with 100% Analog Stick Sensitivity Fix 
-<br>
 <h3>Author: Mariano L. Acosta</h3>
 <br>
 <h1>Intro and Motivation</h1>
