@@ -8,4 +8,4 @@ After an exahustive search on the internet I found this I/O emulator: https://gi
 
 
 <h1>Please Note</h1>
-You have to modify the COM port in the script to match your board. 
+You have to modify the COM port in the script to match your board. In my case I used the 'COM 3' port.
