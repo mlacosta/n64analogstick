@@ -1,5 +1,5 @@
 
-# Precise N64 Analog Stick mapping
+# Precise N64 Analog Stick and buttons mapping
 # by Mariano L. Acosta (marianoacosta.003@gmail.com)
 
 from System.IO.Ports import SerialPort 
