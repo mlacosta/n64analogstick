@@ -7,6 +7,7 @@
   <li>A set of 3 cables</li>
   <li>FreePie Software (Free)</li>
   <li>An N64 emulator that allows the mouse axis as a control input (i.e w/the NRange Input plugin)</li>
+  <li>Optional: Vjoy and UCR (software)</li>
 
 </ul>
 <h1>Intro and Motivation</h1>
