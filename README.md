@@ -15,6 +15,8 @@ This project is based on the instructable: https://www.instructables.com/id/Use-
 <h1>The Solution</h1>
 After an exahustive search on the internet I found this I/O emulator: https://github.com/AndersMalmgren/FreePIE/wiki (FreePie). So what I did was to create a simple script that reads the serial data sent by the Arduino, then unpack it and map it to the keyboard and mouse. I solved the problem of using 'deltas' in the cursor and now the analog stick works great with full sensitivity in Project 64. To use this solution, load the program 'N64_Arduino.ino' into an Arduino Uno, connect the cables to a N64 controller as the intructable says and then run the script 'N64Stick.py' with FreePie and now you are able to use the controller in a emulator with its full capability. 
 
+<h1>UPDATE: USB Controller</h2>
+Once you have the controller mapped with the mouse and keyboard using this solution, you can use a virtual joystick emulator so that the PC can read the N64 joystick as an USB device. I'm using Vjoy with UCR (Universal Controller Remapper) and so far I didn't report any issue. 
 
 <h1>Please Note</h1>
 You have to modify the COM port in the script to match your board. In my case I used the 'COM 3' port.
